@@ -1,0 +1,3 @@
+GET http://localhost:3000/api/reservas/verificar/1
+Authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Mywicm9sIjoiYWRtaW4iLCJpYXQiOjE3OTE1NjQxNDYsImV4cCI6MTc5MTU3MTM0Nn0.lsMJNW6t1uMIcuTMmWHW-UHV7UARqgCLtk03nCdNBRo
+
